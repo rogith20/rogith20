@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @rogith20 
-- 👀 I’m interested in Mobile Application Dev
-- 🌱 I’m currently learning flutter 
-- 💞️ I’m looking to collaborate on designing flutter UI
+- 👋 Hi, I’m Rogith R 
+- 👀 I’m interested in Mobile Application Development
+- 🌱 I’m currently learning Flutter & Dart
+- 💞️ I’m looking to collaborate on designing and developing apps 
 - 📫 How to reach me 1. Instagram - @raja_rogith_
 
 <!---
